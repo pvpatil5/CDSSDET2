@@ -10,6 +10,7 @@
       <class name="demo2.Demo2"/>
       <class name="demo2.Demo1"/>
       <class name="demo2.Nidhi"/>
+      <class name="demo2.JenkinsExecution"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
