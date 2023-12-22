@@ -11,6 +11,7 @@
       <class name="demo2.Demo1"/>
       <class name="demo2.Nidhi"/>
       <class name="demo2.JenkinsExecution"></class>
+      <class name="demo2.PollScmCheck"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
