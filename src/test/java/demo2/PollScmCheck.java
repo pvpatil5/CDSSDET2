@@ -7,6 +7,7 @@ public class PollScmCheck {
 	@Test
 	public void runPollScm() {
 		System.out.println("Poll SCM Running");
+		System.out.println("Run Build Periodcally");
 	}
 	
 }
