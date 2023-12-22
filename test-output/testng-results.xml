@@ -1,17 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-22T08:31:03 IST" name="Default suite" finished-at="2023-12-22T08:31:03 IST" duration-ms="44">
+  <suite started-at="2023-12-22T08:36:16 IST" name="Suite" finished-at="2023-12-22T08:36:16 IST" duration-ms="86">
     <groups>
     </groups>
-    <test started-at="2023-12-22T08:31:03 IST" name="Default test" finished-at="2023-12-22T08:31:03 IST" duration-ms="44">
+    <test started-at="2023-12-22T08:36:16 IST" name="Test" finished-at="2023-12-22T08:36:16 IST" duration-ms="86">
+      <class name="demo2.Nidhi">
+        <test-method signature="runNidhi()[pri:0, instance:demo2.Nidhi@25fb8912]" started-at="2023-12-22T08:36:16 IST" name="runNidhi" finished-at="2023-12-22T08:36:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runNidhi -->
+      </class> <!-- demo2.Nidhi -->
+      <class name="demo2.PollScmCheck">
+        <test-method signature="runPollScm()[pri:0, instance:demo2.PollScmCheck@2c35e847]" started-at="2023-12-22T08:36:16 IST" name="runPollScm" finished-at="2023-12-22T08:36:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPollScm -->
+      </class> <!-- demo2.PollScmCheck -->
+      <class name="demo2.Demo1">
+        <test-method signature="runDemo1()[pri:0, instance:demo2.Demo1@5d7148e2]" started-at="2023-12-22T08:36:16 IST" name="runDemo1" finished-at="2023-12-22T08:36:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runDemo1 -->
+      </class> <!-- demo2.Demo1 -->
+      <class name="demo2.Demo3">
+        <test-method signature="runDemo3()[pri:0, instance:demo2.Demo3@f5acb9d]" started-at="2023-12-22T08:36:16 IST" name="runDemo3" finished-at="2023-12-22T08:36:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runDemo3 -->
+      </class> <!-- demo2.Demo3 -->
+      <class name="demo2.Akshay">
+        <test-method signature="runAkshay()[pri:0, instance:demo2.Akshay@543588e6]" started-at="2023-12-22T08:36:16 IST" name="runAkshay" finished-at="2023-12-22T08:36:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAkshay -->
+      </class> <!-- demo2.Akshay -->
       <class name="demo2.JenkinsExecution">
-        <test-method signature="runJenkins()[pri:0, instance:demo2.JenkinsExecution@4d0f2471]" started-at="2023-12-22T08:31:03 IST" name="runJenkins" finished-at="2023-12-22T08:31:03 IST" duration-ms="7" status="PASS">
+        <test-method signature="runJenkins()[pri:0, instance:demo2.JenkinsExecution@7c24b813]" started-at="2023-12-22T08:36:16 IST" name="runJenkins" finished-at="2023-12-22T08:36:16 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runJenkins -->
       </class> <!-- demo2.JenkinsExecution -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="demo2.Demo2">
+        <test-method signature="runDemo2()[pri:0, instance:demo2.Demo2@4fb3ee4e]" started-at="2023-12-22T08:36:16 IST" name="runDemo2" finished-at="2023-12-22T08:36:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runDemo2 -->
+      </class> <!-- demo2.Demo2 -->
+      <class name="demo2.Demo5">
+        <test-method signature="runDemo5()[pri:0, instance:demo2.Demo5@169e6180]" started-at="2023-12-22T08:36:16 IST" name="runDemo5" finished-at="2023-12-22T08:36:16 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runDemo5 -->
+      </class> <!-- demo2.Demo5 -->
+      <class name="demo2.Demo4">
+        <test-method signature="runDemo4()[pri:0, instance:demo2.Demo4@58695725]" started-at="2023-12-22T08:36:16 IST" name="runDemo4" finished-at="2023-12-22T08:36:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runDemo4 -->
+      </class> <!-- demo2.Demo4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
